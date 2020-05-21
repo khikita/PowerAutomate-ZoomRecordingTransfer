@@ -1,6 +1,5 @@
 import os
 import json
-import os
 from pprint import pprint
 import responder
 import requests
