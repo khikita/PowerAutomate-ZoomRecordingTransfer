@@ -7,7 +7,7 @@ import requests
 
 api = responder.API()
 
-PA_URL = os.environ['PA＿URL']
+PA_URL = os.environ['PA_URL']
 
 @api.route('/')
 async def index(req,resp):
